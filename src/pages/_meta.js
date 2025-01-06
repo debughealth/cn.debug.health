@@ -1,20 +1,20 @@
 export default {
   index: {
-    title: 'Debug Health',
+    title: '调试健康',
   },
   preface: {
-    title: 'Preface',
+    title: '序言',
   },
   sit: {
-    title: 'Sit',
+    title: '久坐',
   },
   fit: {
-    title: 'Fit',
+    title: '锻炼',
   },
   eat: {
-    title: 'Eat',
+    title: '饮食',
   },
   rest: {
-    title: 'Rest',
+    title: '休息',
   },
 }

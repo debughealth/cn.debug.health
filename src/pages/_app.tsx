@@ -6,7 +6,7 @@ export default function App({ Component, pageProps }: AppProps) {
     <>
       <script
         defer
-        data-domain="debug.health"
+        data-domain="cn.debug.health"
         src="https://plausible.ppresume.com/js/script.js"
       ></script>
       <Component {...pageProps} />

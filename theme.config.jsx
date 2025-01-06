@@ -12,7 +12,7 @@ const Logo = () => {
     <>
       <Image
         src="/static/logo/logo-64x64.png"
-        alt="Debug Health"
+        alt="调试健康"
         width={x6}
         height={x6}
         style={{
@@ -20,7 +20,7 @@ const Logo = () => {
           filter: theme === 'dark' ? 'invert(1)' : 'none',
         }}
       />
-      <h1>Debug Health</h1>
+      <h1>调试健康</h1>
     </>
   )
 }
@@ -41,16 +41,15 @@ export default {
   head() {
     const { title, frontMatter } = useConfig()
 
-    const siteTitle = 'Debug Health'
+    const siteTitle = '调试健康'
     const siteDescription = [
-      'A guide book for people who need to work long hours',
-      'behind a desk in a healthy way.',
+      '调试健康：写给伏案工作者的健康指南',
     ].join(' ')
 
     const pageTitle = frontMatter.title || title
     const pageDescription = frontMatter.description || siteDescription
 
-    const url = 'https://debug.health'
+    const url = 'https://cn.debug.health'
 
     return (
       <>

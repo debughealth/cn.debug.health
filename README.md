@@ -1,21 +1,19 @@
-# Debug Health
+# 调试健康
 
-This is a guide book for people who need to work long hours behind a desk in a
-healthy way.
+这是一本为需要长时间在办公桌前工作的人提供健康指导的手册。
 
-For production site, see [debug.health](https://debug.health).
+生产环境网站请访问 [cn.debug.health](https://cn.debug.health)。
 
-## Getting Started
+## 开始使用
 
-Run the development server by:
+运行开发服务器：
 
 ```bash
 npm run dev
-# or
+# 或
 yarn dev
-# or
+# 或
 pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the
-result.
+在浏览器中打开 [http://localhost:3000](http://localhost:3000) 查看结果。
