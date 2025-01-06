@@ -1,8 +1,8 @@
 export default {
   hardware: {
-    title: 'Hardware',
+    title: '硬件',
   },
   software: {
-    title: 'Software',
+    title: '软件',
   },
 }

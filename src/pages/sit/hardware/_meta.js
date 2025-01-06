@@ -1,20 +1,20 @@
 export default {
   chair: {
-    title: 'Chair',
+    title: '座椅',
   },
   desk: {
-    title: 'Desk',
+    title: '书桌',
   },
   display: {
-    title: 'Display',
+    title: '显示器',
   },
   keyboard: {
-    title: 'Keyboard',
+    title: '键盘',
   },
   light: {
-    title: 'Light',
+    title: '光源',
   },
   mouse: {
-    title: 'Mouse',
+    title: '鼠标',
   },
 }

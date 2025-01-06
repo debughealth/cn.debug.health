@@ -1,11 +1,11 @@
 export default {
   os: {
-    title: 'OS',
+    title: '操作系统',
   },
   launcher: {
-    title: 'Launcher',
+    title: '启动器',
   },
   editor: {
-    title: 'Editor',
+    title: '编辑器',
   },
 }
